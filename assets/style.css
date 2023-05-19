@@ -220,7 +220,7 @@ footer h1 {
 }
 
 #big-work-image {
-    max-width: 70rem;
+    height: 100%;
     border-radius: 1rem 0 0 1rem;
 }
 
